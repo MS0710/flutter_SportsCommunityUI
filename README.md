@@ -1,16 +1,16 @@
-# flutter_store
+Flutter 運動社群APP UI設計
+-------------
 
-A new Flutter project.
+Flutter 運動社群APP UI設計
 
-## Getting Started
+| 社區 | 運動 |
+| :----: | :----: |
+| <img src="images/社區.jpg" width="50%"> | <img src="images/運動.jpg" width="50%">|
 
-This project is a starting point for a Flutter application.
+| 探索-課程與挑戰 | 探索-運動商城 |
+| :----: | :----: |
+| <img src="images/探索-課程與挑戰.jpg" width="50%"> | <img src="images/探索-運動商城.jpg" width="50%">|
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| 計畫 | 我 |
+| :----: | :----: |
+| <img src="images/計畫.jpg" width="50%"> | <img src="images/我.jpg" width="50%">|
